@@ -1,0 +1,233 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ATestJApplet2	ATestJApplet2.java	/^    public ATestJApplet2() {$/;"	m	class:ATestJApplet2
+ATestJApplet2	ATestJApplet2.java	/^public class ATestJApplet2 extends javax.swing.JApplet {$/;"	c
+ATestJFrame	ATestJFrame.java	/^    public ATestJFrame() {$/;"	m	class:ATestJFrame
+ATestJFrame	ATestJFrame.java	/^public class ATestJFrame extends javax.swing.JFrame {$/;"	c
+AnimalButton	ATestJApplet2.java	/^    private javax.swing.JButton AnimalButton;$/;"	f	class:ATestJApplet2	file:
+AnimalButton	ATestJFrame.java	/^    private javax.swing.JButton AnimalButton;$/;"	f	class:ATestJFrame	file:
+AnimalButtonActionPerformed	ATestJApplet2.java	/^    private void AnimalButtonActionPerformed(java.awt.event.ActionEvent evt) {\/\/GEN-FIRST:event_AnimalButtonActionPerformed$/;"	m	class:ATestJApplet2	file:
+AnimalButtonActionPerformed	ATestJFrame.java	/^    private void AnimalButtonActionPerformed(java.awt.event.ActionEvent evt) {\/\/GEN-FIRST:event_AnimalButtonActionPerformed$/;"	m	class:ATestJFrame	file:
+AnimalField	ATestJApplet2.java	/^    private javax.swing.JTextField AnimalField;$/;"	f	class:ATestJApplet2	file:
+AnimalField	ATestJFrame.java	/^    private javax.swing.JTextField AnimalField;$/;"	f	class:ATestJFrame	file:
+BestSuccessors	frmChessBoard.java	/^	private static ArrayList<ArrayList<String>> BestSuccessors = new ArrayList<ArrayList<String>>();$/;"	f	class:frmChessBoard	file:
+BlackIcon	frmChessBoard.java	/^	private ImageIcon BlackIcon = new ImageIcon(s + "\/images\/block.jpg");$/;"	f	class:frmChessBoard	file:
+BlackImage	ChessBoard.java	/^    public Image BlackImage;$/;"	f	class:ChessBoard
+BlackImage1	ChessBoard.java	/^    public Image BlackImage1 = toolkit.getImage("images\/red1.png");$/;"	f	class:ChessBoard
+BlackKing	frmChessBoard.java	/^	private ImageIcon BlackKing = new ImageIcon(s + "\/images\/bblock.jpg");$/;"	f	class:frmChessBoard	file:
+BlackKingImage	ChessBoard.java	/^    public Image BlackKingImage = toolkit.getImage("images\/blackKing.png");$/;"	f	class:ChessBoard
+BlackKingImage1	ChessBoard.java	/^    public Image BlackKingImage1 = toolkit.getImage("images\/redKing1.png");$/;"	f	class:ChessBoard
+CheckerState	CheckerState.java	/^    public CheckerState(Chess red[], Chess[] black){$/;"	m	class:CheckerState
+CheckerState	CheckerState.java	/^    public CheckerState(Chess red[], Chess[] black, boolean b){$/;"	m	class:CheckerState
+CheckerState	CheckerState.java	/^public class CheckerState{$/;"	c
+Checkers	Checkers.java	/^	public Checkers(){$/;"	m	class:Checkers
+Checkers	Checkers.java	/^public class Checkers extends Applet implements ActionListener{$/;"	c
+Chess	Chess.java	/^    public Chess(){\/\/构造函数$/;"	m	class:Chess
+Chess	Chess.java	/^    public Chess(String color,int id){\/\/含参构造函数$/;"	m	class:Chess
+Chess	Chess.java	/^public class Chess{$/;"	c
+ChessBoard	ChessBoard.java	/^    public ChessBoard(Robot robot){$/;"	m	class:ChessBoard
+ChessBoard	ChessBoard.java	/^public class ChessBoard extends JPanel implements MouseListener{$/;"	c
+DEPTH	Robot.java	/^    private static int DEPTH = 3; \/\/搜索深度.默认是简单的水平$/;"	f	class:Robot	file:
+DEPTH	frmChessBoard.java	/^	private static final int DEPTH = 3;$/;"	f	class:frmChessBoard	file:
+HelloWorld	HelloWorld.java	/^public class HelloWorld extends JApplet {$/;"	c
+HelloWorldApplet	HelloWorldApplet.java	/^public class HelloWorldApplet extends Applet$/;"	c
+KingValue	frmChessBoard.java	/^	private static final int KingValue= 10;$/;"	f	class:frmChessBoard	file:
+MAX	Robot.java	/^    private static final int MAX = 99999;$/;"	f	class:Robot	file:
+MAX	frmChessBoard.java	/^	private static final int MAX = Integer.MAX_VALUE;$/;"	f	class:frmChessBoard	file:
+MIN	Robot.java	/^    private static final int MIN = -99999;$/;"	f	class:Robot	file:
+MIN	frmChessBoard.java	/^	private static final int MIN = -Integer.MAX_VALUE;$/;"	f	class:frmChessBoard	file:
+MouseClickExample	MouseClickExample.java	/^public class MouseClickExample extends Applet implements MouseListener $/;"	c
+NextStates	Robot.java	/^    private static ArrayList<CheckerState> NextStates; \/\/当前状态所有可能的走法$/;"	f	class:Robot	file:
+NormalValue	frmChessBoard.java	/^	private static final int NormalValue= 5;$/;"	f	class:frmChessBoard	file:
+NorthEast	Util.java	/^	public static Point NorthEast(Point pp){$/;"	m	class:Util
+NorthWest	Util.java	/^	public static Point NorthWest(Point pp){\/\/向四个方向走$/;"	m	class:Util
+Oracle	Oracle.java	/^public class Oracle {$/;"	c
+OriBlack	CheckerState.java	/^    private static Chess OriBlack[];$/;"	f	class:CheckerState	file:
+OriRed	CheckerState.java	/^    static Chess OriRed[];$/;"	f	class:CheckerState
+RedImage	ChessBoard.java	/^    public Image RedImage;$/;"	f	class:ChessBoard
+RedKingImage	ChessBoard.java	/^    public Image RedKingImage = toolkit.getImage("images\/redKing.png");$/;"	f	class:ChessBoard
+Robot	Robot.java	/^    public Robot(){$/;"	m	class:Robot
+Robot	Robot.java	/^public class Robot extends Thread{$/;"	c
+SouthEast	Util.java	/^	public static Point SouthEast(Point pp){$/;"	m	class:Util
+SouthWest	Util.java	/^	public static Point SouthWest(Point pp){$/;"	m	class:Util
+Util	Util.java	/^	public Util(){$/;"	m	class:Util
+Util	Util.java	/^public class Util {$/;"	c
+WhiteIcon	frmChessBoard.java	/^	private ImageIcon WhiteIcon = new ImageIcon(s + "\/images\/wblock.jpg");$/;"	f	class:frmChessBoard	file:
+WhiteKing	frmChessBoard.java	/^	private ImageIcon WhiteKing = new ImageIcon(s + "\/images\/bblock.jpg");$/;"	f	class:frmChessBoard	file:
+about	Checkers.java	/^	JButton about = new JButton("About");$/;"	f	class:Checkers
+actionPerformed	Checkers.java	/^	public void actionPerformed(ActionEvent e){$/;"	m	class:Checkers
+alphaBetaSearch	Robot.java	/^    private void alphaBetaSearch(CheckerState state){$/;"	m	class:Robot	file:
+applet	ATestJApplet2.java	/^package applet;$/;"	p
+applet	ATestJFrame.java	/^package applet;$/;"	p
+applet	CheckerState.java	/^package applet;$/;"	p
+applet	Checkers.java	/^package applet;$/;"	p
+applet	Chess.java	/^package applet;$/;"	p
+applet	ChessBoard.java	/^package applet;$/;"	p
+applet	HelloWorld.java	/^package applet;$/;"	p
+applet	HelloWorldApplet.java	/^package applet;$/;"	p
+applet	MouseClickExample.java	/^package applet;$/;"	p
+applet	Oracle.java	/^package applet;$/;"	p
+applet	Robot.java	/^package applet;$/;"	p
+applet	Util.java	/^package applet;$/;"	p
+applet	frmChessBoard.java	/^package applet;$/;"	p
+au	Util.java	/^	private AudioClip au; $/;"	f	class:Util	file:
+bWhite	frmChessBoard.java	/^	private boolean boolMoveSelection = false, bWhite = true, wMyTurn = true;$/;"	f	class:frmChessBoard	file:
+bar	Checkers.java	/^	JButton bar = new JButton();$/;"	f	class:Checkers
+black	CheckerState.java	/^    Chess black[] ;$/;"	f	class:CheckerState
+black	ChessBoard.java	/^    public static Chess black[] = new Chess[12];\/\/黑色棋$/;"	f	class:ChessBoard
+blackKiller	CheckerState.java	/^    Chess blackKiller; \/\/刚吃过子的黑子$/;"	f	class:CheckerState
+boolMoveSelection	frmChessBoard.java	/^	private boolean boolMoveSelection = false, bWhite = true, wMyTurn = true;$/;"	f	class:frmChessBoard	file:
+box	Checkers.java	/^	JComboBox box = new JComboBox();$/;"	f	class:Checkers
+cb	Checkers.java	/^	ChessBoard cb;$/;"	f	class:Checkers
+change	ChessBoard.java	/^    	public void change()\/\/变颜色$/;"	m	class:ChessBoard
+checkOver	Robot.java	/^    private void checkOver(CheckerState state){$/;"	m	class:Robot	file:
+chessBoard	Robot.java	/^    private JPanel chessBoard;$/;"	f	class:Robot	file:
+color	Chess.java	/^    private String color;$/;"	f	class:Chess	file:
+container	frmChessBoard.java	/^	private Container container;$/;"	f	class:frmChessBoard	file:
+copy	CheckerState.java	/^    public CheckerState copy(){\/\/复制给新状态$/;"	m	class:CheckerState
+counted	Chess.java	/^    boolean counted = false;$/;"	f	class:Chess
+createGUI	frmChessBoard.java	/^	private void createGUI() {$/;"	m	class:frmChessBoard	file:
+depth	CheckerState.java	/^    int depth; \/\/搜索时所在深度$/;"	f	class:CheckerState
+drawChessBoard	frmChessBoard.java	/^	private void drawChessBoard()$/;"	m	class:frmChessBoard	file:
+drawChessPieces	frmChessBoard.java	/^	private void drawChessPieces()$/;"	m	class:frmChessBoard	file:
+eat	Util.java	/^	public static boolean eat(Chess chess,CheckerState state,boolean b){\/\/是否有可以吃的子$/;"	m	class:Util
+eat	Util.java	/^	public static boolean eat(Chess monster,CheckerState state){\/\/monster是否可以吃子$/;"	m	class:Util
+eat	Util.java	/^	public static boolean eat(Chess monster,Chess[] red,Chess[] black){\/\/是否有可以吃的子$/;"	m	class:Util
+eaten	Robot.java	/^    public static boolean eaten = false;$/;"	f	class:Robot
+equals	CheckerState.java	/^    public boolean equals(Object o){$/;"	m	class:CheckerState
+equals	Chess.java	/^    public boolean equals(Object o){$/;"	m	class:Chess
+exitForm	ATestJApplet2.java	/^    private void exitForm(java.awt.event.WindowEvent evt) {\/\/GEN-FIRST:event_exitForm$/;"	m	class:ATestJApplet2	file:
+exitForm	ATestJFrame.java	/^    private void exitForm(java.awt.event.WindowEvent evt) {\/\/GEN-FIRST:event_exitForm$/;"	m	class:ATestJFrame	file:
+findPath	Robot.java	/^    private ArrayList<CheckerState> findPath(CheckerState from, CheckerState to){$/;"	m	class:Robot	file:
+frmChessBoard	frmChessBoard.java	/^public class frmChessBoard extends Applet implements MouseListener$/;"	c
+getBlack	CheckerState.java	/^    public Chess getBlack(Point p){\/\/返回p这个点的黑子(己方棋子)$/;"	m	class:CheckerState
+getBlackBeingKilledNumber	CheckerState.java	/^    public int getBlackBeingKilledNumber(){\/\/计算被吃掉的棋子数$/;"	m	class:CheckerState
+getBlackKingNumber	CheckerState.java	/^    public int getBlackKingNumber(){$/;"	m	class:CheckerState
+getBlackNumber	CheckerState.java	/^    public int getBlackNumber(){$/;"	m	class:CheckerState
+getColor	Chess.java	/^    public String getColor(){$/;"	m	class:Chess
+getLocation	Chess.java	/^    public Point getLocation(){$/;"	m	class:Chess
+getOriBlack	CheckerState.java	/^    public Chess[] getOriBlack() {\/\/得到己方棋子的状态$/;"	m	class:CheckerState
+getPieceObject	frmChessBoard.java	/^	private JLabel getPieceObject(String strPieceName)$/;"	m	class:frmChessBoard	file:
+getPoint	ChessBoard.java	/^    private Point getPoint(int x,int y){\/\/将坐标转化为对应的Point$/;"	m	class:ChessBoard	file:
+getRed	CheckerState.java	/^    public Chess getRed(Point p){$/;"	m	class:CheckerState
+getRedBeingKilledNumber	CheckerState.java	/^    public int getRedBeingKilledNumber(){$/;"	m	class:CheckerState
+getRedKingNumber	CheckerState.java	/^    public int getRedKingNumber(){$/;"	m	class:CheckerState
+getRedNumber	CheckerState.java	/^    public int getRedNumber(){$/;"	m	class:CheckerState
+getValue	CheckerState.java	/^    public int getValue(){ \/\/估值函数$/;"	m	class:CheckerState
+hasChess	CheckerState.java	/^    private String hasChess(Point pp){\/\/pp这个点有没有子$/;"	m	class:CheckerState	file:
+hasChess	Util.java	/^	public static String hasChess(CheckerState st,Point pp){$/;"	m	class:Util
+hasChess	Util.java	/^	public static String hasChess(Chess[] red,Chess[] black,Point pp){\/\/点击选择棋子，该格子内显示为空$/;"	m	class:Util
+id	Chess.java	/^    int id;$/;"	f	class:Chess
+ifCanGo	ChessBoard.java	/^    private boolean ifCanGo(Chess chess,Point former, Point now){\/\/判断是否可以走棋$/;"	m	class:ChessBoard	file:
+image	ChessBoard.java	/^    public Image image = toolkit.getImage("images\/bg.jpg");$/;"	f	class:ChessBoard
+init	ATestJApplet2.java	/^    public void init() {\/\/GEN-BEGIN:initComponents$/;"	m	class:ATestJApplet2
+init	Checkers.java	/^	public void init() {$/;"	m	class:Checkers
+init	ChessBoard.java	/^    public void init(){$/;"	m	class:ChessBoard
+init	HelloWorld.java	/^    public void init() {$/;"	m	class:HelloWorld
+init	MouseClickExample.java	/^ public void init()  $/;"	m	class:MouseClickExample
+init	frmChessBoard.java	/^	public void init() {$/;"	m	class:frmChessBoard
+initComponents	ATestJFrame.java	/^    private void initComponents() {\/\/GEN-BEGIN:initComponents$/;"	m	class:ATestJFrame	file:
+isKing	Chess.java	/^    public boolean isKing(){$/;"	m	class:Chess
+isMoveValid	frmChessBoard.java	/^	private boolean isMoveValid()$/;"	m	class:frmChessBoard	file:
+isSelected	Chess.java	/^    public boolean isSelected(){$/;"	m	class:Chess
+isVisible	Chess.java	/^    public boolean isVisible(){$/;"	m	class:Chess
+king	Chess.java	/^    private boolean king = false;$/;"	f	class:Chess	file:
+level	Checkers.java	/^	JLabel level = new JLabel("Level: ");$/;"	f	class:Checkers
+location	Chess.java	/^    private Point location;$/;"	f	class:Chess	file:
+main	ATestJApplet2.java	/^    public static void main(String args[]) {$/;"	m	class:ATestJApplet2
+main	ATestJFrame.java	/^    public static void main(String args[]) {$/;"	m	class:ATestJFrame
+makeChessPieceDifferent	frmChessBoard.java	/^	private void makeChessPieceDifferent(boolean bSelected)$/;"	m	class:frmChessBoard	file:
+maxValue	Robot.java	/^    private int maxValue(CheckerState state,int a,int b){$/;"	m	class:Robot	file:
+minValue	Robot.java	/^    private int minValue(CheckerState state,int a,int b){$/;"	m	class:Robot	file:
+monster	ChessBoard.java	/^    private Chess monster;$/;"	f	class:ChessBoard	file:
+mouseClicked	Checkers.java	/^  public void mouseClicked(MouseEvent e){}$/;"	m	class:Checkers
+mouseClicked	ChessBoard.java	/^    public void mouseClicked(MouseEvent e){}\/\/鼠标单击事件$/;"	m	class:ChessBoard
+mouseClicked	MouseClickExample.java	/^ public void mouseClicked (MouseEvent me) {$/;"	m	class:MouseClickExample
+mouseClicked	frmChessBoard.java	/^	public void mouseClicked(MouseEvent arg0) {$/;"	m	class:frmChessBoard
+mouseEntered	Checkers.java	/^  public void mouseEntered(MouseEvent e){}$/;"	m	class:Checkers
+mouseEntered	ChessBoard.java	/^    public void mouseEntered(MouseEvent e){}\/\/鼠标经过事件$/;"	m	class:ChessBoard
+mouseEntered	MouseClickExample.java	/^ boolean mouseEntered;$/;"	f	class:MouseClickExample
+mouseEntered	MouseClickExample.java	/^ public void mouseEntered (MouseEvent me) { $/;"	m	class:MouseClickExample
+mouseEntered	frmChessBoard.java	/^	public void mouseEntered(MouseEvent e){}$/;"	m	class:frmChessBoard
+mouseExited	Checkers.java	/^  public void mouseExited(MouseEvent e){}$/;"	m	class:Checkers
+mouseExited	ChessBoard.java	/^    public void mouseExited(MouseEvent e){}\/\/鼠标移开事件$/;"	m	class:ChessBoard
+mouseExited	MouseClickExample.java	/^ public void mouseExited (MouseEvent me) { $/;"	m	class:MouseClickExample
+mouseExited	frmChessBoard.java	/^	public void mouseExited(MouseEvent e){}$/;"	m	class:frmChessBoard
+mousePressed	Checkers.java	/^  public void mousePressed(MouseEvent e){}$/;"	m	class:Checkers
+mousePressed	ChessBoard.java	/^    public void mousePressed(MouseEvent e) {$/;"	m	class:ChessBoard
+mousePressed	MouseClickExample.java	/^ public void mousePressed (MouseEvent me) {}$/;"	m	class:MouseClickExample
+mousePressed	frmChessBoard.java	/^	public void mousePressed(MouseEvent e){}$/;"	m	class:frmChessBoard
+mouseReleased	Checkers.java	/^  public void mouseReleased(MouseEvent e){}$/;"	m	class:Checkers
+mouseReleased	ChessBoard.java	/^    public void mouseReleased(MouseEvent e){}\/\/鼠标释放事件$/;"	m	class:ChessBoard
+mouseReleased	MouseClickExample.java	/^ public void mouseReleased (MouseEvent me) {} $/;"	m	class:MouseClickExample
+mouseReleased	frmChessBoard.java	/^	public void mouseReleased(MouseEvent e){}$/;"	m	class:frmChessBoard
+moveChessPiece	frmChessBoard.java	/^	private void moveChessPiece() \/\/ deal with GUI Piece$/;"	m	class:frmChessBoard	file:
+mute	Util.java	/^	static boolean mute = false;$/;"	f	class:Util
+nextEatingStates	CheckerState.java	/^    private ArrayList<CheckerState> nextEatingStates(Chess chess, CheckerState st,boolean first){$/;"	m	class:CheckerState	file:
+nextStates	CheckerState.java	/^    private ArrayList<CheckerState> nextStates(Chess chess,CheckerState st){\/\/不吃子的下一步状态$/;"	m	class:CheckerState	file:
+nextStatesOfBlack	CheckerState.java	/^    public ArrayList<CheckerState> nextStatesOfBlack(){\/\/同上$/;"	m	class:CheckerState
+nextStatesOfRed	CheckerState.java	/^    public ArrayList<CheckerState> nextStatesOfRed(){\/\/红方下一步所有可能状态$/;"	m	class:CheckerState
+p	CheckerState.java	/^    static Point p[][] = ChessBoard.p;$/;"	f	class:CheckerState
+p	ChessBoard.java	/^    public static Point[][] p = new Point[9][9];\/\/java 中的point类，表示(x,y)点集$/;"	f	class:ChessBoard
+p	Util.java	/^	private static Point[][] p = ChessBoard.p;$/;"	f	class:Util	file:
+paint	ChessBoard.java	/^    public void paint(Graphics g){\/\/画棋盘及棋子，java绘图类$/;"	m	class:ChessBoard
+paint	HelloWorldApplet.java	/^   public void paint (Graphics g)$/;"	m	class:HelloWorldApplet
+paint	MouseClickExample.java	/^ public void paint(Graphics g)  $/;"	m	class:MouseClickExample
+play	Util.java	/^	public void play(){\/\/播放声音$/;"	m	class:Util
+pnlChessPieces	frmChessBoard.java	/^	private JPanel[][] pnlChessPieces = new JPanel[8][8];$/;"	f	class:frmChessBoard	file:
+pnlMain	frmChessBoard.java	/^	private JPanel pnlMain = new JPanel(new GridLayout(8,8));$/;"	f	class:frmChessBoard	file:
+pnt	frmChessBoard.java	/^	private Object pnt;$/;"	f	class:frmChessBoard	file:
+pntMoveFrom	frmChessBoard.java	/^	private Point pntMoveFrom, pntMoveTo;$/;"	f	class:frmChessBoard	file:
+pntMoveTo	frmChessBoard.java	/^	private Point pntMoveFrom, pntMoveTo;$/;"	f	class:frmChessBoard	file:
+quit	Checkers.java	/^	JButton quit = new JButton("Quit");$/;"	f	class:Checkers
+rect1Clicked	MouseClickExample.java	/^ boolean rect1Clicked;$/;"	f	class:MouseClickExample
+rect1height	MouseClickExample.java	/^ int rect1xco,rect1yco,rect1width,rect1height;$/;"	f	class:MouseClickExample
+rect1width	MouseClickExample.java	/^ int rect1xco,rect1yco,rect1width,rect1height;$/;"	f	class:MouseClickExample
+rect1xco	MouseClickExample.java	/^ int rect1xco,rect1yco,rect1width,rect1height;$/;"	f	class:MouseClickExample
+rect1yco	MouseClickExample.java	/^ int rect1xco,rect1yco,rect1width,rect1height;$/;"	f	class:MouseClickExample
+red	CheckerState.java	/^    Chess red[];$/;"	f	class:CheckerState
+red	ChessBoard.java	/^    public static Chess red[] = new Chess[12];\/\/红色棋$/;"	f	class:ChessBoard
+redKiller	CheckerState.java	/^    Chess redKiller; \/\/刚吃过子的红子$/;"	f	class:CheckerState
+removeCapturingShadow	frmChessBoard.java	/^	public void removeCapturingShadow(){$/;"	m	class:frmChessBoard
+removeShadow	frmChessBoard.java	/^	public void removeShadow(){$/;"	m	class:frmChessBoard
+removeShadowByIndex	frmChessBoard.java	/^	public void removeShadowByIndex(int y, int x){$/;"	m	class:frmChessBoard
+robot	Checkers.java	/^	Robot robot;$/;"	f	class:Checkers
+robot	ChessBoard.java	/^    private Robot robot;$/;"	f	class:ChessBoard	file:
+run	Robot.java	/^    public void run(){$/;"	m	class:Robot
+s	frmChessBoard.java	/^	String s= "\/Users\/yulong\/Documents\/code\/myspace\/java\/applet";$/;"	f	class:frmChessBoard
+selected	Chess.java	/^    private boolean selected = false;$/;"	f	class:Chess	file:
+selectedChess	ChessBoard.java	/^    private Chess selectedChess;\/\/选择的棋子$/;"	f	class:ChessBoard	file:
+serialVersionUID	Checkers.java	/^	private static final long serialVersionUID = 1L;\/\/可以不要,Java的序列化机制是通过在运行时判断类的serialVersionUID来验证版本一致性的。在进行反序列化时，JVM会把传来的字节流中的serialVersionUID与本地相应实体（类）的serialVersionUID进行比较，如果相同就认为是一致的，可以进行反序列化，否则就会出现序列化版本不一致的异常。(InvalidCastException)$/;"	f	class:Checkers	file:
+serialVersionUID	ChessBoard.java	/^    private static final long serialVersionUID = -8427438142176684142L;$/;"	f	class:ChessBoard	file:
+setBorad	Robot.java	/^    public void setBorad(JPanel jp){$/;"	m	class:Robot
+setColor	Chess.java	/^    public void setColor(String color){$/;"	m	class:Chess
+setKing	Chess.java	/^    public void setKing(boolean b){$/;"	m	class:Chess
+setLevel	Robot.java	/^    public void setLevel(int index){$/;"	m	class:Robot
+setLocation	Chess.java	/^    public void setLocation(Point p){$/;"	m	class:Chess
+setLocation	Chess.java	/^    public void setLocation(int x, int y){$/;"	m	class:Chess
+setOriBlack	CheckerState.java	/^    public static void setOriBlack(Chess oriBlack[]) {\/\/设置己方棋子的状态$/;"	m	class:CheckerState
+setSelected	Chess.java	/^    public void setSelected(boolean b){$/;"	m	class:Chess
+setState	Robot.java	/^    public void setState(CheckerState state){$/;"	m	class:Robot
+setVisible	Chess.java	/^    public void setVisible(boolean b){$/;"	m	class:Chess
+sound	Checkers.java	/^	JButton sound = new JButton("Audio: ON");$/;"	f	class:Checkers
+start	Checkers.java	/^	Button start = new Button("New");$/;"	f	class:Checkers
+state	Robot.java	/^    private CheckerState state;$/;"	f	class:Robot	file:
+strChessBoard	frmChessBoard.java	/^	private String[][] strChessBoard = new String[][] { {"B", " ", "B", " ", "B","  ", "B", " "}, {" ", "B", " ", "B", " ", "B", " ", "B"}, $/;"	f	class:frmChessBoard	file:
+toString	CheckerState.java	/^    public String toString(){$/;"	m	class:CheckerState
+toString	Chess.java	/^    public String toString(){\/\/if it is visible,just means it still alive,wo should get it point position,otherwise,we declare it as "dead"$/;"	m	class:Chess
+toolkit	ChessBoard.java	/^    public Toolkit toolkit = Toolkit.getDefaultToolkit();$/;"	f	class:ChessBoard
+top	Checkers.java	/^	JPanel top = new JPanel();$/;"	f	class:Checkers
+turn	ChessBoard.java	/^    public static boolean turn = true;$/;"	f	class:ChessBoard
+util	ChessBoard.java	/^    private Util util = new Util();$/;"	f	class:ChessBoard	file:
+util	Robot.java	/^    private Util util = new Util();$/;"	f	class:Robot	file:
+value	CheckerState.java	/^    int value; \/\/权值$/;"	f	class:CheckerState
+visible	Chess.java	/^    private boolean visible = true;$/;"	f	class:Chess	file:
+w	CheckerState.java	/^    public static int[] w = new int[]{8,6,-6,8,-8,-4,4};\/\/评价函数的系数$/;"	f	class:CheckerState
+wMyTurn	frmChessBoard.java	/^	private boolean boolMoveSelection = false, bWhite = true, wMyTurn = true;$/;"	f	class:frmChessBoard	file:
+win	Util.java	/^	static boolean win = false;$/;"	f	class:Util
+xpos	MouseClickExample.java	/^ int xpos; $/;"	f	class:MouseClickExample
+ypos	MouseClickExample.java	/^ int ypos;$/;"	f	class:MouseClickExample
